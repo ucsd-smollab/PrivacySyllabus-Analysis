@@ -1,0 +1,366 @@
+University,University Type,Release,Title,Link,Additional Information,Course/ Syllabus Links,Category,Format,Pages,No of classes covering privacy,Privacy Defn,Privacy Threats,Privacy Solutions
+University of Massachusetts-Lowell,Doctoral-R2,No,Introduction to IoT Security and Privacy,https://www.uml.edu/catalog/courses/COMP/4650?courselist=%2Fcatalog%2Fundergraduate%2Fsciences%2Fdepartments%2Fcomputer-science%2Fcourse-listing.aspx,,https://www.cs.uml.edu/~xinwenfu/Classes/IoT/2022SP/COMP5670-IoT.html,,,,2,,"Pervasive sensor networks monitoring individuals entering.
+","- individuals control their data in terms of collection by who and when
+- Personal data should be used for only authorized services by authorized service providers
+- Personal data should be stored only when really needed
+"
+Stony Brook University,Doctoral-R1,No,Web Security,https://www.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE361,,https://www.securitee.org/teaching/cse361/,,,,3,,"- Referer can be stripped
+- Discovering targets for known exploits in browser extensions - eg: LastBlur","- Cross-Origin Resource Sharing (CORS) - CORS Request Headers should contain header only and the complete URL 
+- Caching/Proxying
+- OCSP Stapling
+- TLS Protocol"
+Rice University,Doctoral-R1,No,SOCIETY IN THE INFORMATION AGE,https://courses.rice.edu/courses/!SWKSCAT.cat?p_action=COURSE&p_term=201120&p_crn=20812,,https://drive.google.com/file/d/1vH0eNCXKd2d_aWAk9t661M-EacZYmmaA/view?usp=drive_link,,,,1,,,
+Duke University,Doctoral-R1,No,Usable Security,https://courses.cs.duke.edu/spring23/compsci590.3/,,https://courses.cs.duke.edu/spring23/compsci590.3/,,,,10,,,
+Case Western Reserve University,Doctoral-R1,No,Data Privacy,https://bulletin.case.edu/course-descriptions/csds/,,https://drive.google.com/file/d/1tZcJ-MTtUwbRRAJrcOEuKUhG9KYS2r8x/view?usp=drive_link,,,,-,,,
+Case Western Reserve University,Doctoral-R1,No,Internet Security and Privacy,https://bulletin.case.edu/course-descriptions/csds/,,https://docs.google.com/document/d/1VGe_Dc01Gkk1fg5rRf-bUR4Qm1G7yfjO/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,6,"- Web privacy  - There is now widespread concern about the privacy of users’ activities on the World-Wide Web. The list of Web locations visited by a user often conveys detailed information about the user’s family, financial or health situation. Consequently, users often consider their Web-browsing history to be private information that they do not want unknown parties to learn. Of course, visiting a Web site necessarily leaks some information to that site; but users would like some assurance that information about their visits to a site is not available to arbitrary third parties.","- Geo-location leakage
+- cached cookies
+- History sniffing ","- cookie syncing
+- Web privacy measurement
+- Privacy Badger tools which use heuristics to block third-party cookies with the goal of preventing third-party tracking, erring on the side of false positives (i.e., blocking too many cookies)
+- Location privacy through access-control mechanisms
+- Location privacy through digital rights management
+- Location privacy through Smokescreen which is meant to enable privacy-preserving presence-sharing among users with pre-established trust relationships, and relies on centralized, trusted brokers to coordinate anonymous communication between strangers.
+- Location privacy through Adeona : a device-tracking service designed to help users recover lost or stolen mobile devices without compromising their location privacy.
+- SMILE - Secure MIssed connections through Logged Encounters. SMILE is a secure, centralized missed-connections service. It provides users with both location and encounter privacy from adversarial service providers and peers, and uses a passive key-exchange protocol which is feasible using a widely-deployed, short-range wireless technology, such as Bluetooth.
+- Location privacy through segregating location-sensitive resources instead of cacheing them in cache shared across all websites.
+- Geo-Location privacy through segregating location-sensitive resources instead of cacheing them in cache shared across all websites.
+- Web privacy through Privacy policies and third party audits
+- History sniffing prevention through blocking all known, automated techniques while still distinguishing visited from unvisited links and allowing site authors some control over how this distinction is made.
+- Private browsing
+"
+Saint Xavier University,MastersCollegesAndUniversities-M1,No,Relational Database Theory and Design,https://www.sxu.edu/catalog/_resources/documents/undergraduate-catalog-2022-23.pdf,,https://docs.google.com/document/d/103KrkUzEPNOW9wLtLLXZjog8GSunupsU/edit?usp=sharing&ouid=109178796343356996296&rtpof=true&sd=true,,,,0,,,
+McNeese State University,MastersCollegesAndUniversities-M1,No,Topics in Computing Ethics,https://catalog.mcneese.edu/search_advanced.php?cur_cat_oid=90&ecpage=1&cpage=1&ppage=1&pcpage=1&spage=1&tpage=1&search_database=Search&filter%5Bkeyword%5D=privacy+&filter%5B3%5D=1&filter%5B31%5D=1,,https://drive.google.com/file/d/19PfE4iTmnWO7-DDuFyPFWFpJBwuw2fC2/view?usp=sharing,,,,1,NA,NA,NA
+Winona State University,MastersCollegesAndUniversities-M2,No,Introduction to Internet of Things,https://catalog.winona.edu/search_advanced.php?cur_cat_oid=27&ecpage=1&cpage=1&ppage=1&pcpage=1&spage=1&tpage=1&search_database=Search&filter%5Bkeyword%5D=privacy&filter%5B3%5D=1&filter%5B31%5D=1,,https://drive.google.com/file/d/1znaXsRTACb9d92mc8vzlbD1TUXKxyId4/view?usp=sharing,,,,-,"- Privacy is related to security but requires specific measures at the application, network, and device levels. Not only must user data be protected from outright theft, but the network needs to be designed so that less-private data cannot easily be used to infer more private data.
+- Privacy protects personal information from access by unauthorized actors.
+- Privacy and safety are dependent on security, because they employ security mechanisms for their implementation, such as data integrity and confidentiality. Interestingly, safety and privacy are overlapping, because privacy is a safety issue in some contexts, such as the financial transactions.
+- Privacy of location information is about both controlling access to the information and providing the appropriate level of granularity to individual requestors.","- Data collected from beacons are correlated in time, which might cause serious threats to data security and user privacy.
+- unauthorized data sharing over the Internet.","- Hierarchical Data Sandboxing
+- Privacy enforced through encryption, authentication to conform identity, and Information authentication by using digitally signed certificates are the key security mechanisms in the Internet today.
+- Homomorphic encryption
+- Privacy in ubiquitous computing: notice, choice and consent, anonymity and pseudonymity, proximity and locality, adequate security, and access and recourse.
+- VSPN is a privacy-preserving navigation scheme that utilizes speed data and road conditions collected by RSUs to guide vehicles. "
+Harvey Mudd College,Baccalaureate-ArtsAndSciences,No,File Systems,https://www.hmc.edu/cs/academic-programs/course-descriptions/,,https://www.cs.hmc.edu/~geoff/classes/hmc.cs137.202209/,,,,0,-,-,-
+Luther College,Baccalaureate-ArtsAndSciences,No,Computer Networks,https://catalog.luther.edu/courses?subjectCode=CS&cq=&sortBy&page=1,,https://drive.google.com/file/d/1nR09LZ4nQNHFSgjvku85R41wwWJf2bEa/view?usp=sharing,,,,-,,"- Attackers, via the Internet, might be able to hack into IoT devices or into the servers collecting data from IoT devices. For example, an attacker could hijack an Internet-connected doll and talk directly with a child; or an attacker could hack into a database that stores personal health and activity information collected from wearable devices.","- A combination of a trusted proxy server and SSL
+- Limit LAN broadcast traffic
+- Pretty Good Privacy (PGP) - example of an e-mail encryption scheme, which provides secure e-mail.
+- Wired Equivalent Privacy (WEP) - provides authentication and data encryption between a host and a wireless access point (that is, base station) using a symmetric shared key approach."
+North Carolina State University at Raleigh,Doctoral-R1,No,Software Security,https://sites.google.com/ncsu.edu/csc415-software-security/syllabus,,,,,,3,"- Privacy is the ability and/or right to protect your personal secrets; it extends to the ability and/or right to prevent invasions of your personal space (the exact definition varies quite sharply from one country to another). Privacy can extend to families but not to legal persons such as corporations.
+- Privacy is a transient notion. It started when people stopped believing that God could see everything and stopped when governments realized there was a vacancy to be filled.",- social engineering,
+University of Idaho,Doctoral-R2,No,Adversarial Machine Learning,https://www.webpages.uidaho.edu/vakanski/Courses/Adversarial_Machine_Learning/Spring_2024/CS_487_587_Adversarial_Machine_Learning_Syllabus.pdf,,,,,,4,"- A plausible notion of privacy, known in statistical disclosure control as the “Dalenius desideratum,” states that the model should reveal no more about the input to which it is applied than would have been known about this input without applying the model.
+- The model breaches “privacy” not just of the people whose data was used to create the model, but also of other people from the same population, even those whose data was not used and whose identities may not even be known to the model’s creator.
+- In terms of privacy, our personal data are being harvested by almost every online service and are used to train models that power machine learning applications. However, it is not well known if and how these models reveal information about the data used for their training. If a model is trained using sensitive data such as location, health records, or identity information, then an attack that allows an adversary to extract this information from the model is highly undesirable. At the same time, if private data has been used without its owners’ consent, the same type of attack could be used to determine the unauthorized use of data and thus work in favor of the user’s privacy
+- Differential privacy is a means of protecting data privacy. It aims to hide specific input data from the output so that one can not tell whether the input data contain a particular record or not by looking at the result calculated from input data. When differential privacy is applied to the machine learning algorithm, the trained model becomes insensitive to the removal or replacement of an arbitrary point in the training dataset.
+","- Indirect prompting could be leveraged to exfiltrate users’ data (e.g., credentials, personal information) or leak users’ chat sessions. This can be done in interactive chat sessions by persuading users to disclose their data or indirectly via side channels
+-  Automated attacks that do not involve humans in the loop could be possible, e.g., attacks against personal assistants that can read emails (containing instructions), access personal data, and send emails accordingly. These scenarios might aim to achieve financial gains and could also extend to, e.g., surveillance.
+- Test-time adversarial examples, e.g., Wallace et al. (2019) also craft trigger phrases that cause errors but do so by searching for naturally-occurring trigger phrases
+- In particular, the standard practice of ingesting as much NLP data as possible—including from potentially untrusted public sources—exposes fundamental vulnerabilities ranging from data poisoning to privacy.
+- The collaborative learning can significantly protect sensitive data privacy without seeing it, it is, however, vulnerable to backdoor attacks.Backdoor attacks insert hidden associations or triggers to the deep learning models to override correct inference such as classification and make the system perform maliciously according to the attacker-chosen target while behaving normally in the absence of the trigger.
+- When the backdoor defense requires no training data, e.g., DeepInspect [118], it inverts the model to extract the training data, which unfortunately potentially violates the data privacy preservation purpose of adopting federated learning
+- The goal of an attacker in the security violation is to evade well-known security metrics including availability, privacy, and integrity. The attacker may violate the availability of the system by denial-of-service attack. In this case, if the system cannot accomplish the desired task due to the attacker’s behavior, the availability of the service would be affected. The attacker needs to obtain sensitive and private information of users with approaches like reverse-engineering to violate the user’s privacy.
+- Using third-party services like search or DNS inquires leverage the feature set and make the feature set more reliable it also endangers the privacy of the users. 
+- A privacy breach occurs if an adversary can use the model’s output to infer the values of unintended (sensitive) attributes used as input to the model. 
+- ML models may have complex representations of their learned patterns. Not being able to understand what has been captured by the model [4] and
+stored in its internal representation may entail a privacy breach
+- Loss of privacy has been compromised by DL methods in scenarios where no data fusion is performed. For instance, a few images are enough to threaten users’ privacy even in the presence of image obfuscation [420], and the model parameters of a DNN can be exposed by simply performing input queries on the model
+- A centralized operator has direct access to sensitive data so user privacy might be violated
+- Shared training data in collaborative learning
+- Model Extraction Attack. The model extraction attack targets at the duplication of (i.e., “steal”) the AI model
+- Membership Inference Attack
+- Model memorization attack studies how malicious training algorithms deliberately create models that leak information about their training data sets.
+- Backdoor attacks and privacy. Some recent work raised the awareness of backdoor attacks against machine learning and deep learning systems, where misclassification behaviours are hidden in models and can be triggered by specific input
+- Linkage attack: The adversary aims to achieve a target’s information by correlating multiple data sources.
+- Identification attack: Identification attack identifies a user’s name or identity-based on some public dataset
+- Model extraction. Model extraction attacks aim to extract the parameters of a model trained on private data.
+- Model inversion. Model inversion uses the output of a model applied to a hidden input to infer certain features of this input. 
+- Property inference attacks. Passive property inference requires access to some data that possess the property and some that do not","- The most successful empirical defense to date is adversarial training (Goodfellow et al., 2015; Kurakin et al., 2017; Madry et al., 2018), in which adversarial examples are found during training (often using projected gradient descent) and added to the training set.
+- This scenario is about collaborative learning represented by distributed learning techniques, e.g., federated learning and split learning. For example, Google trains word prediction models from data localized on user phones. Collaborative learning or distributed learning is designed to protect privacy leakage on the data owned by clients or participants.
+- We consider the data encryption such as CryptoNet, SecureML and CryptoNN under this backdoor attack surface, which trains the model over encrypted data in order to protect data privacy.
+-  Motivated by privacy concerns, the server is designed to have no visibility into an agents’ local data and training process.
+- Guided by privacy concerns, perform training using their local data but share only model parameter updates, for iterative aggregation at the server
+- In a federated learning model, the training dataset is decentralized among multiple devices (e.g., laptops, mobile phones, and IoT devices), which could belong to different users or organizations. Owing to serious privacy threats, the participant trains the shared model and then submits model updates, while keeping their training data locally. In this approach, there is a central server (aggregator) that coordinates the learning process and aggregates the model updates from the clients, which locally trains the model using their own private datasets.
+- In traditional centralized framework, multiple participants are forced to upload their private datasets into a trust central server on which it is possible to learn a model (see Figure 1a for illustration). With the concern of privacy leakage, confidentiality organizations, like the government and bank, may not willing to participate in centralized learning. 
+- Differential privacy constitutes a strong standard for privacy guarantees for algorithms on aggregate databases. It is defined in terms of the application-specific concept of adjacent databases. 
+- Federated learning
+- Keep the training data private while using a ML service
+- Encrypting ML model
+- GNNs (Generative Neural networks) for the transformation of sensitive images so that they can preserve privacy of individuals.
+- GAN to play an important role in this area, as it has demonstrated the capability to preserve high utility for ML algorithms while protecting sensitive information in the dataset.
+- VAE, might also be used for privacy protection for a signal data entry
+- Private Aggregation of Teacher Ensembles, or PATE, which transfers to a “student” model the knowledge of an ensemble of “teacher” models, with intuitive privacy provided by training teachers on disjoint data and strong privacy guaranteed by noisy aggregation of teachers’ answers."
+North Carolina State University at Raleigh,Doctoral-R1,No,Computer and Network Security,https://csc574.dwermke.com/schedule/,,,,,,2,-,- Geo-location leakage,"- Link Shimming
+- Privacy Sandbox - The Privacy Sandbox initiative aims to create technologies that both protect people's privacy online and give companies and developers tools to build thriving digital businesses."
+University of Wisconsin-Madison,Doctoral-R1,No,Advanced Computer Security and Privacy,https://canvas.wisc.edu/courses/396286,,,,,,8,"- Privacy breach: formal definitions. What does it mean to de-anonymize a record r? The naive answer is to find the “right” anonymized record in the public sample Dˆ . This is hard to capture formally, however, because it requires assumptions about the data publishing process (e.g., what if Dˆ contains two copies of every original record?). Fundamentally, the adversary’s objective is is to learn as much as he can about r’s attributes that he doesn’t already know. We give two different (but related) formal definitions, because there are two distinct scenarios for privacy breaches in large databases
+- Privacy advice is only effective if it considers the specific needs of the target population.
+- ""I don’t like those [cybercafes] that are open . . . you have a computer here and then there’s no partition. It’s just like somewhere where you can find some privacy and do your work without somebody peeping at what you’re doing."".","- Email can be routinely and automatically scanned for interesting keywords, on a vast scale, without detection. This is like driftnet fishing. And exponential growth in computer power is making the same thing possible with voice traffic.
+- direct access to unhashed passwords, which carries privacy concerns
+- Inadvertent exposure of the sensitive information in the logs.
+- privacy vulnerability (e.g., a weak password)
+- intimate threats, describe a class of common threats to a person’s privacy and security, who can leverage their physical and psychological proximity to a person to cause harm
+- Their privacy is only at risk if the adversary deploys additional (costly) means to associate identities with collected background knowledge. For instance, the adversary could attempt to combine data from surveillance cameras with facial recognition techniques to learn who is whom.
+- A particularly sensitive privacy issue arises from the manner in which wireless devices identify access points within close proximity. Traditionally, devices perform active scanning where they broadcast probe request frames asking nearby APs to identify themselves and respond with 802.11 parameter information required for connection setup. These probe request frames require a source MAC address, but if an 802.11 device uses its globally unique MAC address then it is effectively broadcasting its identity at all times to any wireless receiver that is nearby. Wireless device users can then easily be tracked across temporal and spatial boundaries as their devices are transmitting with their unique identity.
+- deanonymization attacks against high-dimensional micro-data, such as individual preferences, recommendations, transaction records and so on.
+- The MAC address is a crucial part of WiFi communication, being included in every link-layer frame that is sent to or from the device. This unfortunately poses a glaring privacy problem because any third party eavesdropping on nearby WiFi traffic can uniquely identify nearby cellphones, and their traffic, through their MAC addresses.","- PGP empowers people to take their privacy into their own hands. If you use PGP and follow reasonable precautions, the attacker will have to expend far more effort and expense to violate your privacy.  PGP gives you Pretty Good Privacy. PGP - An application and protocol (RFC 1991) for secure e-mail and file encryption
+- PEM (Privacy Enhanced Mail) - A protocol to provide secure internet mail, (RFC 1421-1424) including services for encryption, authentication, message integrity, and key management. PEM uses ANSI X.509 certificates
+- PGP/MIME - An IETF standard (RFC 2015) that provides privacy and authentication using the Multipurpose Internet Mail Extensions (MIME) security content types described in RFC1847, currently deployed in PGP 5.0 and later versions.
+- SSL - Developed by Netscape to provide security and privacy over the Internet. Supports server and client authentication and maintains the security and integrity of the transmission channel. Operates at the transport layer and mimics the “sockets library,” allowing it to be application independent. Encrypts the entire communication channel and does not support digital signatures at the message level.
+- TLS - An IETF draft, version 1 is based on the Secure Sockets Layer (SSL) version 3.0 protocol, and provides communications privacy over the Internet.
+- Acheive email privacy with encryption
+- The only way to hold the line on privacy in the information age is strong cryptography.
+- Privacy-preserving approach to collecting a password distribution for statistical analysis (Section IV). By hashing each password at the time of collection with a secret key that is destroyed prior to our analysis, we preserve the password histogram exactly with no risk to user privacy.
+- Might I Get Pwned"" (MIGP), a new kind of breach alerting service. MIGP preserves user privacy and limits potential exposure of sensitive breach entries. 
+- To protect the privacy of users, Gossamer anonymizes the usernames before storing in the persistent database by encrypting them using a deterministic encryption scheme. The encryption key is only accessible from within the measurement service. The deterministic nature of encryption allows us to cross-reference the logins against a username without knowing the actual username, while also allowing us to report compromised usernames to the security engineers, should we discover any.
+- Privacy-preserving technologies like end-to-end encryption provide many capabilities including secrecy, deniability, and untraceability. Secrecy precludes platforms from performing content-based analysis and filtering. Deniability compounds the difficulty of targets being able to collect and provide evidence of hate and harassment.
+- Design concepts from the privacy community can also protect users from surveillance or lockout and control. For example, delegated access to a user’s sensitive information (e.g., location, photos) might expire without that user’s explicit re-approval. This mirrors recent strategies such as automatically deleting a user’s location history after a set period
+- Ensures data minimization. The central server only observes anonymous identifiers of COVID-19 positive users without any proximity information. Health authorities learn no information except that provided when a user reaches out to them after being notified.
+- Prevents abuse of data. As the central server receives the minimum amount of information tailored to its requirements, it can neither misuse the collected data for other purposes, nor can it be coerced or subpoenaed to make other data available.
+- Prevents tracking of users. No entity can track users that have not reported a positive diagnosis. Depending on the implementation chosen, others can only track COVID-19 positive users in a small geographical region limited by their capability to deploy infrastructure that can receive broadcasted Bluetooth beacons.
+- Graceful dismantling. The system will dismantle itself after the end of the epidemic. COVID-19 positive users will stop uploading their data to the central server, and people will stop using the app. Data on the server and in the apps is
+removed after 14 days.
+- The proximity tracing process is supported by a backend server that distributes anonymous exposure information to the app running on each phone. This backend server is trusted to not add information (i.e., to not add fake exposure events) nor remove information (i.e., to not remove exposure events) and to be available. The backend acts solely as a communication platform and does not perform any processing. It is untrusted with regards to protecting users’ privacy. In other words, the privacy of the users in the system does not depend on the actions of this server. Even if the server is compromised or seized, their privacy remains intact.
+-  Other mitigation techniques could include the use of Private Information Retrieval and Private Set Intersection techniques
+- Direct anonymous attestation scheme (DAA) - scheme adopted by the Trusted Computing Group as the method for  remote authentication of a hardware module, called  trusted platform module  (TPM),  while preserving the privacy of the user of the platform that contains the module.
+- Media Access Control (MAC) address randomization is a privacy technique whereby mobile devices rotate through random hardware addresses in order to prevent observers from singling out their traffic or physical location from other nearby devices.
+-  Several managers also indicated that they have physical partitions at the cybercafe for customers’ privacy
+- To combat this privacy concern, both Android and Apple iOS operating systems allow for devices in a disassociated state to use random, locally assigned MAC addresses when performing active scans. Since the MAC address is now random, users gain a measure of anonymity up until they associate with an AP"
+University of Wisconsin-Madison,Doctoral-R1,No,Program Verification and Synthesis,https://pages.cs.wisc.edu/~cs703-1/#schedule,,,,,,0,-,-,-
+Philander Smith College,Baccalaureate-DiverseFields,No,Computer Security & Privacy,https://drive.google.com/file/d/1VnIPiVTeTv4OKA-yfmA8ItqSgXjSX91w/view?usp=sharing,,,,,,0,-,-,-
+Princeton University,Doctoral-R1,No,Computers in Our World,https://www.cs.princeton.edu/courses/archive/fall23/cos109/,,,,,,4,,,
+North Carolina State University at Raleigh,Doctoral-R1,No,Network Security,https://people.csc.ncsu.edu/whenck/csc474/f23/,,,,,,0,-,- Ransomware,"- GPG: The GNU Privacy guard
+- Wired Equivalent Privacy (WEP)
+- Encrypted SNI (Server Name Indication) was the original proposal to protect SNI privacy.
+- Split VPN"
+North Carolina State University at Raleigh,Doctoral-R1,No,Cybersecurity Topics,https://drive.google.com/file/d/1-bxDl547KTIHBHjfE43Qcis2F9MPUdfg/view?usp=sharing,,,,,,3,,,
+Brown University,MastersCollegesAndUniversities-M2,No,Applied Cryptography,https://cs.brown.edu/courses/csci1515/spring-2024/,,,,,,2,"- Differential privacy : Whatever an adversary learns about you, she could have learned from the rest of the dataset (in particular, even if you didn’t participate). Note that this does not say that the adversary does not learn anything about you; indeed, learning about the population implies learning about individuals. For example, if an adversary learns that smoking correlates with lung cancer (the kind of fact that differential privacy is meant to allow learning) and knows that you smoke, it can deduce that you are more likely to get lung cancer. However, such a deduction is not because of the use of your data in the differentially private mechanism, and thus may not be considered a privacy violation. The mechanism will not leak a significant amount of information specific to an individual (or a small group, as we’ll see in the next section). Consequently, differential privacy is not an achievable privacy notion if the goal of the analysis is to take an action on a specific individual in the dataset (e.g. to identify a candidate for a drug trial, or a potential terrorist, or a promising customer).","- model-inversion attack
+- Reconstruction Attacks - attack that reconstructs almost all of the dataset
+","- Federated Learning
+- Secure agregation protocol  - a practical protocol for securely aggregating data while ensuring that clients’ inputs are only learned by the server in aggregate.
+- Differential privacy
+- “anonymize” the dataset by removing obvious identifiers, such as name, address, and date of birth, and then share the anonymized dataset."
+University of California-Berkeley,Doctoral-R1,No,"""The Beauty and Joy of Computing",https://cs10.org/sp24/,,,,,,0,-,-,-
+University of Georgia,Doctoral-R1,No,Cyber Security,https://www.mustakim.info/uga_cyber_security/syllabus.pdf,,,,,,3,"- Security is about keeping unwanted traffic from entering one’s network. Privacy is about keeping wanted information from leaving one’s network.
+- Privacy is Essential for Survival. Required for strategy, to compete over limited resources. Example: play a game while revealing to other players his hand or strategy. Privacy reflects the autonomy and free will of the individual. Example: in Christianity, individual choice between good and evil. Privacy provides a mechanism for “forgetting” or not knowing of some forms of indiscretions. Example: “go west young man”.
+- A key component of privacy is the notion of anonymity","- HTTP Referer may leak privacy-sensitive information
+- Data Theft: What personal data can leave device
+- Mobile devices make attractive targets for Location privacy issues",- Origin header: Alternative to Referer with fewer privacy problems.
+Brown University,Doctoral-R1,No,Privacy-Conscious Computer Systems,https://cs.brown.edu/courses/csci2390/2023/schedule.html,,,,,,21,,,
+University of Tulsa,Doctoral-R2,No,Intro to Cyber Security,https://drive.google.com/drive/folders/1l7fsgDg0A5YvLco_y3xOOjB27YSibNWJ?usp=sharing,,,,,,1,"- Privacy is the ability and/or right to protect your personal information and extends to the ability and/or right to prevent invasions of your personal space (the exact definition of which varies quite sharply from one country to another)
+- Privacy is the claim of individuals, groups and institutions to determine for themselves, when, how and to what extent information about them is communicated to others
+- 3 dimensions of privacy (Simone Fischer-Hübner) Personal privacy: protecting a person against undue interference and information that violates moral sense. Territorial privacy: protecting physical area surrounding a person that may not be violated without person’s acquiescence. Informational privacy: deals with the gathering, compilation and selective dissemination of information
+- Privacy is secrecy for the benefit of the individual
+- Privacy usually requires both secrecy and anonymity. 
+- In many countries, privacy is viewed as a fundamental human right. But definitions and protections vary widely. At the least, privacy rights extend to the home and to communications secrecy
+- United States: “Privacy is the right to be left alone” - Justice Louis Brandeis
+- UK: “the right of an individual to be protected against intrusion into his personal life or affairs by direct physical means or by publication of information
+- Australia: “Privacy is a basic human right and the reasonable expectation of every person""",,"- Privacy and data protection laws promoted by governments
+- Self-regulation for fair information practices through codes of conducts promoted by businesses
+- Privacy-enhancing technologies (PETs) adopted by individuals
+- Privacy education of consumers and IT professionals
+- Technical controls: privacy enhancing technologies. Protecting user identities. Protecting confidentiality & integrity of personal data
+- Legal controls
+- PET : Tor
+- Privacy laws"
+University of Idaho,Doctoral-R2,No,Semantic Web and Open Data,https://drive.google.com/drive/folders/13edinqVgR9wyH72aZeMvNr4wk3_N4_MZ,,,Suggested textbook,,,0,-,"- Publishing someone’s email address is considered a violation of privacy, since email addresses (and chat IDs) can be used to pester or even attack someone by sending unwanted, offensive, or just bulky mail.",- The SHA-1 function is publicly available but very difficult to reverse and can used to protect sensitive information while sharing data.
+Amherst College,Baccalaureate-ArtsAndSciences,No,Information Theory,,,,,,,0,-,-,-
+University of South Florida,Doctoral-R1,No,PRIVACY-PRESERVING AND TRUSTWORTHY CYBER-INFRASTRUCTURES,https://drive.google.com/file/d/1_ozSXUIV1FsfgCPxxhrZL2p6IKJtR_Rl/view?usp=drive_link,,,,,,2,- Protect data and systems from unauthorized access and cyber-attacks.,"- Unauthorized access and theft of data stored in databases, public repositories, and other storage systems.","- This course then focuses on privacy-enhancing technologies such as encrypted
+databases, searchable encryption, and oblivious random access.
+- The privacy enhancing technologies include but not limited to searchable
+encryption, and private information retrieval methods.
+- Advanced authentication methods include delay-aware and resource-limited (heterogeneous) authentication schemes.
+- The use of cryptographic methods to defend cyber-attacks against computer
+systems."
+Southern Connecticut State University,MastersCollegesAndUniversities-M1,No,COMPUTER ETHICS,https://drive.google.com/file/d/1cPYy9jXeRThRU58BruWROzt8T7SfB1vK/view?usp=drive_link,,,Blogs,,,2,-,-,-
+New Mexico State University-Dona Ana,Associates-MixedTransfer/Career&Technical-MixedTraditional/Nontraditional,No,Computing Ethics and Social Implications of Computing,https://docs.google.com/document/d/1C-w-ycBdFl_ZP4aUTz--BB-0YP2Vd2mQ/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,Recommended textbook,,,-,"- We will see that some ethicists believe personal privacy is a value that has both intrinsic and instrumental attributes.
+- Contrast this view with descriptions of privacy as something that can be intruded upon or invaded, where privacy can be understood in terms of a spatial metaphor, such as a zone, that deserves protection.
+- Alternatively, privacy is sometimes described as something that can be violated or breached, when we think of it in terms of either a right or an interest that deserves legal protection. 
+- Privacy was understood in terms of freedom from (physical) intrusion. Later it became associated with freedom from interference into one’s personal affairs, including one’s ability to make decisions freely. Most recently, privacy has come to be closely identified with concerns affecting access to and control of personal information—a view that is also referred to as “informational privacy.“
+-  Helen Nissenbaum (2004a, 2010) elaborates on the notion of a context in her model of privacy as “contextual integrity,” where she links adequate privacy protection to “norms of specific contexts.”","- Chip X (a super chip; a hypothetical scenario) will also enable the manufacturer to monitor certain activities of those users whose computers contain the chip in ways that pose serious threats to personal privacy.
+- We examine some issues that affect a relatively new category of privacy called “location privacy,” which arise because of the use of embedded chips, RFID technology, and global positioning systems (GPS).
+- Activities involving the monitoring and recording of an individual’s activities while visiting a Web site and the subsequent downloading of that information onto a user’s computer (without informing the user).
+- Some privacy advocates also point out that information gathered about a user via cookies can eventually be acquired by online advertising agencies, which can then target that user for online ads.
+- Cookies technology also raises concerns involving encroachment or intrusion into a user’s physical space as well as privacy concerns regarding the clandestine method used to gather data about users who visit Web sites.
+- RFID technology can be used for tracking the owners of the items that have these tags.
+- The company had quietly reversed an earlier policy by which it provided businesses with only anonymous data about Internet users (acquired from cookies files). 
+- Net security gained in the use of biometrics is not commensurate with the loss of privacy and civil liberties for individuals.
+- In filling out the various governmental forms, you agreed to give some information to each government agency. It is by no means clear, however, that you authorized information given to any one agency to be exchanged with other agencies... Practices involving computerized matching of records containing personal data raise serious threats for personal privacy.
+- Unauthorized internal use by data users—that data mining raises serious concerns for personal privacy.
+- Search engine-related privacy issues also arise because that technology can be used for questionable purposes such as stalking.
+- The use of search engines can threaten the privacy of individuals in two distinct ways: (1) by recording and archiving records of a user’s search queries that reveal the topic of the search and the time the request was made by the user and (2) by providing users of search engines with personal information about individuals who may have no idea of the wealth of personal information about them that is available online (and have no control over how it is accessed and by whom it is accessed). 
+-  violating the privacy of its customers by using code that created a “backdoor” into their customers’ machines.
+- The aggregation of personal genetic data, via data mining, can generate privacy issues affecting “new groups” and “new facts” about individuals.","- An example of (b) is encryption tools that encode and decode e-mail messages. 
+- Some PETs enable users to navigate the Internet either anonymously or pseudony- mously; one of the best-known anonymity tools is available from Anonymizer.com. 
+- TrackMeNot instead uses “noise and obfuscation.” In this way, a user’s Web searches become “lost in a cloud of false leads.”
+- Many e-commerce sites now provide users with a stated privacy policy that is backed by certified “trustmarks” or trust seals.
+- An industry-backed (self-regulatory) initiative called TRUSTe was designed to help ensure that Web sites adhere to the privacy policies they advertise. 
+- Many nations have enacted strong privacy legislation. "
+Adelphi University,Doctoral-D/PU,No,Cybersecurity Concepts,https://drive.google.com/file/d/1stU-7hdKZoh_onJdtJ1hVK6r15pdPI9d/view?usp=drive_link,,,Required textbook,,,-,"- Assures that individuals control or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed.
+- Provides a user with protection against discovery and misuse of his or her identity by other users.",-,"- A simple approach available for use on a laptop is to use a commercially available encryption package such as Pretty Good Privacy (PGP). PGP enables a user to generate a key from a password and then use that key to encrypt selected files on the hard disk. 
+- a trust framework functions as a certification pro- gram. It enables a party who accepts a digital identity credential (called the relying party) to trust the identity, security, and privacy policies of the party who issues the credential (called the identity service provider) and vice versa. 
+-  This function encodes or encrypts portions of the data so as to preserver privacy but still allow data analysis functions needed for effective use. 
+- Anonymization: This function removes specific identifying information from query results, such as last name and telephone number, but creates some sort of anonymized unique identifier so that analysts can detect connections between queries.
+- Selective revelation: This is a method for minimizing exposure of individual information while enabling continuous analysis of potentially interconnected data. 
+-  Immutable audit: A tamper-resistant method that identifies where data go and who has seen the data. 
+- Associative memory: This is a software module that can recognize patterns and make connections between pieces of data that the human user may have missed or did not know existed.
+- MAC-level data (e.g., an LLC PDU) are encrypted along with a message integrity code that ensures that the data have not been altered."
+Rochester University,Baccalaureate-DiverseFields,No,Social Implications of Computing,https://drive.google.com/file/d/163-mlsFibcrIm5qpZ23PwqbvfHg-upoj/view?usp=sharing,,,Textbook,,,4,"- Freedom from intrusion—being left alone
+- Control of information about oneself
+- Freedom from surveillance (from being followed, tracked, watched, and eaves- dropped upon)
+- Privacy includes control of information about oneself. 
+- Some economists, legal scholars, and privacy advocates propose giving people property rights in information about themselves.
+117 ","- Intentional, institutional uses of personal information (in the government sector primarily for law enforcement and tax collection, and in the private sector primarily for marketing and decision making)
+- Unauthorized use or release by “insiders,” the people who maintain the information
+- Theft of information
+- Inadvertent leakage of information through negligence or carelessness
+- Law enforcement agencies have very sophisticated tools for eavesdropping, surveillance, and collecting and analyzing data about people’s activities, tools that can help reduce crime and increase security—or threaten privacy and liberty.
+- Direct association with a person’s name is not essential for compromising privacy. Re-identification has become much easier due to the quantity of personal infor- mation stored and the power of data search and analysis tools.
+- Many businesses and organizations have policy statements or customer agreements that inform customers, members, and sub- scribers of their policy on collecting and using personal data, but many people simply do not read them. And if they read them, they forget. Thus, there can be a significant privacy impact from the many automated systems that collect information in unobvious ways, even when people have been informed.
+- Companies can use face recognition systems in video game consoles and televisions to target ads to the individual person who is playing a game or watching TV.
+- Such a database (detail about each student) could be an ideal target for identity thieves.
+- We use our Social Security number for identification for credit, financial services, and numerous other services, yet its insecurity compromises our privacy and exposes us to fraud and identity theft.
+- Even if the NSA did not collect customer names, it is quite easy to re-identify people from their phone records.","- Privacy advocates have developed various sets of principles for protection of personal data. They are often called Fair Information Principles or Fair Information Practices.
+-  Inform people when you collect information about them, what you collect, and how you use it.
+- Collect only the data needed.
+- Offer a way for people to opt out from mailing lists, advertising, and other secondary uses. Offer a way for people to opt out from features and services that expose personal information.
+- Keep data only as long as needed.
+- Maintain accuracy of data. Where appropriate and reasonable, provide a way for people to access and correct data stored about them.
+- Protect security o fdata(from theft and from accidental leaks). Provide stronger protection for sensitive data.
+- Develop policies for responding to law enforcement requests for data.
+- Restricts the data in federal government records to what is “relevant and necessary” to the legal purpose for which the government collects it
+- Requires federal agencies to publish a notice of their record systems in the Federal Register so that the public may learn about what databases exist
+- Allows people to access their records and correct inaccurate information
+- Requires procedures to protect the security of the information in databases
+- Prohibits disclosure of information about a person without his or her consent (with several exceptions)
+- Companies offer products and services to prevent forwarding, copying, or printing email. 
+- Many privacy and security professionals view encryption as the most important technical method for ensuring the privacy of messages and data sent through computer networks. 
+- Website operators pay thousands, sometimes millions, of dollars to companies that do privacy audits. Privacy auditors check for leaks of information, review the company’s privacy policy and its compliance with that policy, evaluate warnings and explanations on its website that alert visitors when the site requests sensitive data, and so forth. Hundreds of large businesses have a position called chief privacy officer.
+- we considered some aspects of law and Fourth Amendment principles related to protection of privacy
+- Some prosecutors use the CFAA to bring charges against people or businesses that do unauthorized data collection.
+- A clear policy removes some of the guesswork about expectations of privacy.
+- System designers should give serious thought to default settings. Sometimes protection (of privacy or from hackers, for example) is the ethical priority."
+Washington University in St Louis,Doctoral-R1,No,Introduction to Computer Security,https://drive.google.com/file/d/1cH4mqo65LcixF8ZiULOsER3fJFDnIAku/view?usp=drive_link,,,No materials provided,,,1,-,-,-
+Stevens Institute of Technology,Doctoral-R2,No,Introduction to Cloud Computing,https://drive.google.com/file/d/1Q50-NrXY7Op5juoEriEFO09YNePPxRZA/view?usp=drive_link,,,"Lecture slides, required textbook",,,0,-,-,-
+Saint Louis University,Doctoral-R2,No,Introduction to Computer Science: Cybersecurity,https://drive.google.com/file/d/1iDS6LROPkKIJHGLVJbut71FqEGhDx8fR/view?usp=drive_link,,,"No slides provided, recommended textbooks",,,-,See new spreadsheet,,
+Texas State University,Doctoral-R2,Yes,Advanced Computer Networking,https://hb2504.txst.edu/,,,Cannot find CS 7342 on the page,,,0,,,
+Purdue University-Main Campus,Doctoral-R1,Yes,Computer Security,https://www.cs.purdue.edu/homes/clifton/,,,"Required Textbook
+- Charles P. Pfleeger, Shari Lawrence Pfleeger, and Jonathan Margulies Security in Computing, 5/e Prentice Hall, 2007. (syllabus has detailed chapters to read)
+Slides
+- Need to access with VPN",O'reilly digital,944 pages,4,,,
+Purdue University-Main Campus,Doctoral-R1,Yes,Introduction To Relational Database Systems,https://www.cs.purdue.edu/homes/clifton/,,,,,,0,,,
+College of the Holy Cross,Baccalaureate-ArtsAndSciences,No,Ethical Issues in Computer Science,https://drive.google.com/file/d/1jy1kQ1t_h7VWtXYbOSKzIhQKHtC54Emf/view?usp=drive_link,,,"2 Required Textbook
+- Computer Ethics. 
+Edited by Deborah Johnson, with contributions from Keith Miller
+Publisher: (Pearson) Prentice Hall ISBN-13: 9780131112414 / ISBN-10: 0131112414
+- Cyberethics: Morality and Law in Cyberspace (7th edition, 2020)
+Author: Richard Spinello
+Publisher: Jones and Bartlett Learning
+ISBN-13: 9781284184068","1. pdf
+2. epub","1. 322 pages
+2. 254 pages
+",-,,,
+University of Washington-Bothell Campus,MastersCollegesAndUniversities-M1,Yes,Analyzing Biases in the Age of Digital Data,https://drive.google.com/file/d/1Ip1Q2TMXWlzfQ3cONnwXsImTTQSf3FFm/view?usp=drive_link,,,"2 Required Texbook:
+- Big Data and Social Science
+- ",,,2,,,
+Tufts University,Doctoral-R1,No,Privacy in the Digital Age,https://drive.google.com/file/d/1YrF8KINq5Cmum5qKJgBsCDaGOGmbC2YH/view?usp=drive_link,,,,,,11,,,
+University of Illinois Urbana-Champaign,Doctoral-R1,No,Trustworthy Machine Learning,https://drive.google.com/file/d/1vFnV8RVYr2BfIPAYMPBuP1Kxf5-VOjvs/view?usp=drive_link,,,,,,3,,,
+Barnard College,Baccalaureate-ArtsAndSciences,No,"Networks, Crowds, and the Web",https://drive.google.com/file/d/1yv5x2KVe-vtjSwcmoYMu4s5L8TNfIvPE/view?usp=drive_link,,,,,,-,,,
+Barnard College,Baccalaureate-ArtsAndSciences,No,COMPUTERS AND SOCIETY,https://docs.google.com/document/d/1Za1kS6mWpiDx5KuyAvbn2I2SoeMyFb-7/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,2,,,
+Johns Hopkins University,Doctoral-R1,No,Computer Ethics,https://drive.google.com/file/d/1Yu1m5M3F9z19vChq0h7z-9JQtiwsAtlw/view?usp=drive_link,,,,,,-,,,
+SUNY at Fredonia,MastersCollegesAndUniversities-M3,No,Regulations in Security,https://docs.google.com/document/d/148AYW8OdIwA82pGxwKkKzqnAg-aLcr-Q/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,0,,,
+University of Georgia,Doctoral-R1,No,Data Science Capstone,https://drive.google.com/file/d/11Ud0iS8bm6NoDHISKteBySKlyN9IsoXi/view?usp=drive_link,,,,,,-,,,
+Middlebury College,Baccalaureate-ArtsAndSciences,No,Understanding Our Algorithmic World,https://www.cs.middlebury.edu/~candrews/classes/cs105-s22/,,,,,,2,,,
+Stanford University,Doctoral-R1,No,Human-Centered NLP,https://web.stanford.edu/class/cs329x/,,,,,,5,,,
+North Carolina State University at Raleigh,Doctoral-R1,No,Systems Attacks and Defenses,https://kapravelos.com/teaching/csc591-s20/syllabus/,,,,,,0,,,
+University of Washington-Bothell Campus,MastersCollegesAndUniversities-M1,No,Computers and Society,https://docs.google.com/document/d/1-phYzXJz6vWehTHfzhK0HfkkcSWmwdbd/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,-,,,
+Lehigh University,Doctoral-R2,No,Computer Networks,https://www.cse.lehigh.edu/~cheng/Teaching/CSEECE404-10/syllabus.html,,,,,,0,,,
+Rivier University,MastersCollegesAndUniversities-M2,No,Computer Security,https://rivieredu-my.sharepoint.com/personal/jglossner_rivier_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fjglossner%5Frivier%5Fedu%2FDocuments%2FAttachments%2Fcs572%20syllabus%20SP24%20T2%2Epdf&parent=%2Fpersonal%2Fjglossner%5Frivier%5Fedu%2FDocuments%2FAttachments&ga=1,,,,,,-,,,
+Tufts University,Doctoral-R1,No,Human Factors in Security and Privacy,"https://www.cs.tufts.edu/comp/152HFS/ , https://www.cs.tufts.edu/comp/152HFS/hws/ ",,,,,,14,,,
+University of Illinois Urbana-Champaign,Doctoral-R1,No,Topics in Societal and Ethical Impacts of Computer Technology,https://drive.google.com/drive/folders/1gGim974fjM2c1p8uLMANpWsEOA56DkuS,,,,,,0,,,
+Stanford University,Doctoral-R1,Yes,Ethical and Social Issues in Natural Language Processing,https://web.stanford.edu/class/cs384/,,,,,,1,,,
+University of Vermont,Doctoral-R2,No,Data Privacy,https://jnear.github.io/cs3110-data-privacy/,,,,,,7,,,
+Georgetown University,Doctoral-R1,Yes,Introduction to Network Security,https://courses.benujcich.georgetown.domains/cosc435/fa2021/,,,,,,0,,,
+Georgetown University,Doctoral-R1,Yes,Data Protection by Design,https://courses.benujcich.georgetown.domains/cosc824/sp2021/,,,,,,4,,,
+University of Massachusetts-Dartmouth,Doctoral-R2,No,Network Security & Data Assurance,https://drive.google.com/file/d/1QxBwFzuzylQz45gyzmm8l_sod00iZwaT/view?usp=drive_link,,,,,,0,,,
+Guilford College,Baccalaureate-ArtsAndSciences,Yes,Seminar in Cyber Security,https://docs.google.com/document/d/19-gGcv9HlmWWcQFk7uwl8ooAEYLvHvGp/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,2,,,
+Prairie View A & M University,Doctoral-R2,No,Ethics and Social Issues in Computing,https://www.pvamu.edu/sites/hb2504/courses/Fall%202023/COMP%204100-P01.pdf?nocache=1713974057,,,,,,4,,,
+Tufts University,Doctoral-R1,No,Cyberlaw and Cyberpolicy,https://privacyink.org/Teaching.html,,,,,,2,,,
+Swarthmore College,Baccalaureate-ArtsAndSciences,No,Security and Privacy,https://www.cs.swarthmore.edu/~chaganti/cs88/s24/,,,,,,10,,,
+Augusta University,Doctoral-R2,No,Information Management,"https://docs.google.com/spreadsheets/d/1V-q5NxhOQbhjasxbiOcvfDL1D8ObE0eJ/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true , https://drive.google.com/file/d/1DL-swJZiYEXBx8zr-AT_UbUgvtEhRqCH/view?usp=drive_link ",,,,,,2,,,
+University of Illinois Urbana-Champaign,Doctoral-R1,No,Data Mining Principles,https://wiki.illinois.edu//wiki/display/cs512/Lectures,,,,,,-,,,
+Purdue University Fort Wayne,MastersCollegesAndUniversities-M2,No,Computers In Society,https://docs.google.com/document/d/1LTSP5cK4EtOcGZktHNNMjt2ialh9QrPK/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,6,,,
+University of Massachusetts-Dartmouth,Doctoral-R2,No,Computer and Information System Security,https://drive.google.com/file/d/1Kb2WkkUmu2fUbv8UEZOZ3Z_4ZnWOkXEV/view?usp=drive_link,,,,,,0,,,
+Sacred Heart University,Doctoral-D/PU,No,INTRO TO CYBER SECURITY,https://drive.google.com/file/d/1wqKeAT4jfC7y9-VrOsrvM-buF-u_23Os/view?usp=drive_link,,,,,,1,,,
+Riverside City College,Associates-HighTransfer-HighTraditional,No,Foundations of Data Science,https://drive.google.com/file/d/1M8X5Dr0rxQyY_a1KaI3jopqQDTiqoH2Q/view?usp=drive_link,,,,,,-,,,
+Western Michigan University,Doctoral-R2,No,Computer Security and Information Assurance,https://drive.google.com/file/d/1E2eACnicqAV3IL-tY78jimbqsnUsiA33/view?usp=drive_link ,,,,,,-,,,
+University of Wisconsin-Whitewater,MastersCollegesAndUniversities-M1,No,Cybersecurity law and policy,https://docs.google.com/document/d/1GiyeanyGei9D2Nz_OXr6rJ6kfYDAne43/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,8,,,
+Stanford University,Doctoral-R1,No,Exploring Computing,https://drive.google.com/file/d/1TAN_GP5gnEFGAu1UXKhoI99b8k3xbYc_/view?usp=drive_link,,,,,,1,,,
+University of Illinois Urbana-Champaign,Doctoral-R1,No,Computer Security I,"https://courses.engr.illinois.edu/cs461/sp2024/schedule.html , https://drive.google.com/drive/folders/1GusshyQzuH_hPUx_NBfuVCgb8H0IHRI1?usp=drive_link ",,,,,,0,,,
+Northwestern University,Doctoral-R1,No,"Computing, Ethics, and Society",https://nu-tech-ethics.github.io/index/ ,,,,,,0,,,
+Tufts University,Doctoral-R1,No,"Privacy, Security, and Data",https://drive.google.com/file/d/1LQP0DeQzlC8JZaS5AScUS_CW1Ml4hcbx/view?usp=drive_link,,,,,,13,,,
+California State University-Chico,MastersCollegesAndUniversities-M1,No,Advanced Topics in Data Science,https://drive.google.com/file/d/1UiknCHuI27DQjkXf-fXnjl5ehWXbY9PI/view?usp=drive_link,,,,,,0,,,
+University of Massachusetts-Dartmouth,Doctoral-R2,No,Social & Ethical Aspects of Computing,https://drive.google.com/file/d/1WEYDoAppEI2b78p5Anq7_53ak2Ij8FDO/view?usp=drive_link,,,,,,2,,,
+The University of Alabama,Doctoral-R1,No,Legal & Ethical Issues in Comp,https://ua.simplesyllabus.com/api2/doc-pdf/iidtkkut6/Spring-2024-CS-340-001-.pdf?locale=en-US,,,,,,-,,,
+The University of Alabama,Doctoral-R1,No,Adv. Legal & Ethical Issues,https://ua.simplesyllabus.com/api2/doc-pdf/fldkyulmu/Fall-2023-CS-345-001-Adv-Legal-%26-Ethical-Issues.pdf?locale=en-US,,,,,,-,,,
+The University of Alabama,Doctoral-R1,No,Cyber Law and Ethics,https://ua.simplesyllabus.com/api2/doc-pdf/dswu40prh/Spring-2024-CS-347-001-.pdf?locale=en-US,,,,,,-,,,
+Thomas Edison State University,MastersCollegesAndUniversities-M2,No,Computer Concepts and Applications,https://drive.google.com/file/d/1WxvJmVssAr6uUMXNVJ7G6qpqARPW4GiX/view?usp=drive_link,,,,,,-,,,
+Saint Martin's University,MastersCollegesAndUniversities-M3,No,Cyber Forensics,https://docs.google.com/document/d/1E-mva-HhEtrQ33pv62Vzhf68eM70zUsH/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,-,,,
+New Mexico State University-Dona Ana,Associates-MixedTransfer/Career&Technical-MixedTraditional/Nontraditional,No,Database Management Systems I,https://drive.google.com/file/d/1IuvKKz9BerDJ1Q4ySR0IypDtOcmJZ2xT/view?usp=drive_link,,,,,,-,,,
+Calvin University,MastersCollegesAndUniversities-M3,No,Embedded Systems and the Internet of Things,https://cs.calvin.edu/courses/cs/326/cs326.pdf,,,,,,3,,,
+Calvin University,MastersCollegesAndUniversities-M3,No,Perspectives on Computing,https://cs.calvin.edu/courses/cs/384/cs384.pdf,,,,,,2,,,
+Columbia University in the City of New York,Doctoral-R1,No,"Networks, Crowds, and the Web",https://drive.google.com/file/d/1l6D0JcB9duiqEohROSayOWsr8Bv1i77D/view?usp=drive_link,,,,,,-,,,
+University of Colorado Colorado Springs,Doctoral-R2,No,Privacy and Censorship,"https://docs.google.com/document/d/1BiweT40Aj79htp153K9Atl1euHKLvr4I/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true , https://uccsoffice365-my.sharepoint.com/personal/ssulliv7_uccs_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fssulliv7%5Fuccs%5Fedu%2FDocuments%2FDocuments%2FUCCS%20Spring%202024%2FCS%20%2D%204930%20and%205930%20Privacy%20and%20Censorship%2F3%20%2D%20Homework%20%2D%20All%20Students%2FSpring%202024%20Homework%20Instructions%20and%20Keys&ga=1",,,,,,-,,,
+University of Rochester,Doctoral-R1,No,Social Implications of Computing,https://www.cs.rochester.edu/u/scott/courses/299/,,,,,,3,,,
+Rutgers University-New Brunswick,Doctoral-R1,No,Introduction to Data Communications and Networks,https://people.cs.rutgers.edu/~sn624/352-S21/syllabus.html,,,,,,0,,,
+Washington and Lee University,Baccalaureate-ArtsAndSciences,No,Cybersecurity and Privacy,https://drive.google.com/file/d/1LRpNEaXmX_l5s6-f_eoXHZ3hSl6PyaMh/view?usp=drive_link,,,,,,1,,,
+Columbia University in the City of New York,Doctoral-R1,No,Anonymity and Privacy,https://www.cs.columbia.edu/~smb/classes/f23/,,,,,,8,,,
+Columbia University in the City of New York,Doctoral-R1,No,Computers and Society,https://www.cs.columbia.edu/~smb/classes/f21/,,,,,,9,,,
+Fordham University,Doctoral-R2,No,Cyberspace: Issues and Ethics,https://drive.google.com/file/d/1xU5ST-2RrPieGn32hAkJnBACPD4RP2sI/view?usp=drive_link,,,,,,3,,,
+Clark University,Doctoral-R2,No,Introduction to Societal Computing,"https://cs.clarku.edu/~cs103/syllabus/ ,  https://cs.clarku.edu/~cs103/class/ , https://cs.clarku.edu/~cs103/schedule/",,,,,,0,,,
+University of Chicago,Doctoral-R1,No,"Ethics, Fairness, Responsibility, and Privacy in Data Science",https://raulcastrofernandez.com/DATA-25900-Spring24/,,,,,,4,,,
+Frostburg State University,MastersCollegesAndUniversities-M1,No,Secure Computing,https://drive.google.com/file/d/1VNRcu3d2-TiBD2sWtZ47AWpyAWdC5mSW/view?usp=drive_link,,,,,,0,,,
+University of Akron Main Campus,Doctoral-R2,No,Ethics & Law in Information Technology,https://drive.google.com/file/d/1-jUdnDyW5jzwhlKwn9x8tx4AvyvLg0tl/view?usp=drive_link,,,,,,2,,,
+Seattle University,Doctoral-D/PU,No,Security in Computing,https://drive.google.com/file/d/1c0CFfey_UswohXvkXJJU5FuhhHJX79iy/view?usp=drive_link,,,,,,-,,,
+California State University-Long Beach,Doctoral-R2,No,Introduction to Computer Security,https://github.com/agiacalone/cecs-478-sp24-02-syllabus-7745,,,,,,0,,,
+California State University-Long Beach,Doctoral-R2,No,Introduction to Computer Security Principles,https://github.com/agiacalone/cecs-378-sp24-01-syllabus-5283,,,,,,0,,,
+Heritage University,MastersCollegesAndUniversities-M3,No,Introduction to Computers,https://drive.google.com/file/d/1vUjcKdGrLwkbI7t1Xaxe8j86UFm0Syh0/view?usp=drive_link,,,,,,4,,,
+Bentley University,MastersCollegesAndUniversities-M1,No,Cybersecurity,"https://drive.google.com/file/d/1m-zu4U4hD5kbqOTtZTEFKt_L2yQ6216W/view?usp=drive_link, https://drive.google.com/file/d/1PHSe3fKS8XuuMpT9V5KID56g8R4L6TCX/view?usp=drive_link",,,,,,0,,,
+Gonzaga University,Doctoral-D/PU,No,Computer Security,https://docs.google.com/document/d/1tZcaN7cZjGQNG2q9PLC__-3LwFcVRdIS/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,-,,,
+University of Minnesota-Duluth,MastersCollegesAndUniversities-M1,No,Computer Ethics ,https://sites.google.com/d.umn.edu/umd-fall-2023-computer-ethics,,,,,,0,,,
+Carnegie Mellon University,Doctoral-R1,No,Software Foundations of Security & Privacy,https://15316-cmu.github.io/2023/index.html,,,,,,3,,,
+The University of Tennessee-Chattanooga,Doctoral-D/PU,No,Principles of Information Security and Assurance,"https://docs.google.com/document/d/1IaPeShSTfeaf8KGHqyHV-9NxIyDfFwfb/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true, https://drive.google.com/file/d/1bwQPfnH7Qeq0JRbXLGVgAgntC-U_jeF2/view?usp=drive_link",,,,,,-,,,
+The University of Tennessee-Chattanooga,Doctoral-D/PU,No,Computer ethics,"https://docs.google.com/document/d/1r3IQoqoZQR0f1B8X0LCnY5xGK4y3JWJB/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true , https://drive.google.com/file/d/17t5grZyonRwvXV9mUBzXQbRlq8pIO9Zx/view?usp=drive_link",,,,,,2,,,
+New Mexico State University-Main Campus,Doctoral-R2,No,Computing Ethics and Social Implications of Computing,"https://docs.google.com/document/d/1bbcdeS3d22CuSPRzwl79FfQ760fNDxWL/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true , https://docs.google.com/document/d/1gkfJi3h4VPtQ_vZRifcJi-Gt46_oVmhC/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true","Our ethics class is 1 hour.   The format has been to use the ACM code of ethics as the foundation of our coursework.  Students make short, group presentations about a current IT related issues and relating these issues to the ACM code of ethics,    https://www.acm.org/code-of-ethics
+
+
+The students also hear from experts on Federal Laws and Acts, experiences from a Forensics Expert, and work place biases from a retired industry person (three different presentations).
+
+The final exam requires students to respond to ethical IT/data governance issues at NMSU by identifying NMSU policy as well as global problems relating to the ACM code of ethics.",,,,,-,,,
+Loyola University Maryland,MastersCollegesAndUniversities-M1,No,Cyber Security and Digital Forensics,https://drive.google.com/file/d/15oKpevlwJ5NNRYgmyX56txrjgdrIY7xc/view?usp=drive_link,,,,,,0,,,
+Bowling Green State University-Main Campus,Doctoral-R2,No,POWER OF COMPUTING: THINK LIKE A COMPUTER,https://drive.google.com/file/d/1-YupMhLpV2kfwK1MSi7GuxSiBWOyJGQZ/view?usp=drive_link,,,,,,-,,,
+Bowling Green State University-Main Campus,Doctoral-R2,No,Cybersecurity for Beginners,https://drive.google.com/file/d/121PTS3WlNpcmA2iYGF6lwXT9vdLaR5bD/view?usp=drive_link,,,,,,-,,,
+Merrimack College,MastersCollegesAndUniversities-M1,No,"System Administration, Privacy and Ethics",https://drive.google.com/file/d/1FRhg9JQm4ZZiHU-iLiR9fl8NTWhDX-12/view?usp=drive_link,"That course was last offered in 2019. I am attaching that syllabus for your reference, but it is not a course we offer anymore. It was part of a now-defunct Information Technology major.",,,,,2,,,
+Yale University,Doctoral-R1,No,Introduction to Information Systems,"https://zoo.cs.yale.edu/classes/cs200/syllabus.html , https://zoo.cs.yale.edu/classes/cs200/assignments.html",,,,,,0,,,
+Saint Peter's University,MastersCollegesAndUniversities-M1,No,Cryptology,"https://docs.google.com/document/d/1H3qfvNV4n-oxjy7EVDewaMfzThZbHHpO/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true , https://drive.google.com/file/d/18H8fIEhuW-Et1OUjEjSqIoyjCw7yzb-A/view?usp=drive_link, https://drive.google.com/file/d/12EFovpp8yeffSrtMrbaao3IMQ_CBkMPc/view?usp=drive_link, https://drive.google.com/file/d/1pO-m-j_Ho0SqOCYGc-r3qInfs2hwPQAb/view?usp=drive_link",,,,,,0,,,
+South Carolina State University,MastersCollegesAndUniversities-M3,No,Cryptography and Network Security,"https://drive.google.com/file/d/1X_r90OBxinuOeLg2QkVORJdg63_sMo_l/view?usp=drive_link , https://drive.google.com/file/d/1cgqBckr9Y0Un1IU_Oi0DyVrzJR7-Ya_U/view?usp=drive_link , https://drive.google.com/file/d/1dJFYmhggwp9yiI93hGdpk7dsefCh36Uz/view?usp=drive_link",,,,,,0,,,
+Dartmouth College,Doctoral-R1,No,Security and Privacy in the Lifecycle of IoT for Consumer Environments,https://drive.google.com/file/d/1-ppU6ATY3ODZTsmD7HOKm2jjvqtJqviH/view?usp=drive_link,,,,,,1,,,
+Fisher College,Baccalaureate-DiverseFields,No,Information Security and Privacy,https://drive.google.com/file/d/11xIXV__yt7WqdjiHE9etthcWGeCIIYWH/view?usp=drive_link,,,,,,0,,,
+University of Oklahoma-Norman Campus,Doctoral-R1,No,Programming Structures and Abstractions,https://symbiotic-computing.org/fagg_html/classes/cs2334_f17/,,,,,,1,,,
+Bates College,Baccalaureate-ArtsAndSciences,No,Ethical Hacking Essentials,https://docs.google.com/document/d/1BC6Kc7yvFov3tV0ELGkCeIwv_SyDxHFU/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,-,,,
+Brandeis University,Doctoral-R1,No,Introduction to Computer Security,https://drive.google.com/file/d/1FSx1QsD2JEyzcV3npEzI0oeGVPUaejCb/view?usp=drive_link,"The course does not spend much time on privacy, though I’d like to do more. Several of the later lectures differed from the syllabus here, and one focused on privacy. For that, the assigned readings were:
+
+Arvind Narayanan and Vitaly Shmatikov, Myths and fallacies of ""Personally Identifiable Information""
+Communications of the ACM (CACM), Volume 53, Issue 6 June 2010, pp 24–26
+https://urldefense.com/v3/__https://dl.acm.org/doi/10.1145/1743546.1743558__;!!Mih3wA!HOocQvu_i9NiCDfVNK_JGC4lPeE5L8UBx5DdCQ3HVj9DWdyEstdvkHtxcDZhQ9mIy17kV9VGg4W6siY8yFUzsxM$ 
+
+T-Mobile privacy policy
+https://urldefense.com/v3/__https://www.t-mobile.com/privacy-center/privacy-notices/t-mobile-privacy-notice__;!!Mih3wA!HOocQvu_i9NiCDfVNK_JGC4lPeE5L8UBx5DdCQ3HVj9DWdyEstdvkHtxcDZhQ9mIy17kV9VGg4W6siY8zZ7NLA4$ 
+
+Yahoo, How Digital Advertising Works
+https://urldefense.com/v3/__https://legal.yahoo.com/us/en/yahoo/privacy/advertising/index.html*:*:text=Online*20advertising*20typically*20works*20as,buy*20and*20sell*20advertising*20inventory__;I34lJSUlJSUlJQ!!Mih3wA!HOocQvu_i9NiCDfVNK_JGC4lPeE5L8UBx5DdCQ3HVj9DWdyEstdvkHtxcDZhQ9mIy17kV9VGg4W6siY8kkhiqXo$ .",,,,,0,,,
+Rose-Hulman Institute of Technology,SpecialFocus-FourYear-EngineeringAndOtherTechRelatedSchools,No,OPERATING SYSTEMS,https://www.rose-hulman.edu/class/csse/csse332/2324d/docs/syllabus/syllabus/,,,,,,-,,,
+California State University-East Bay,Doctoral-R2,No,Computing and Social Responsibility,https://docs.google.com/document/d/11I7WUyM-gpSFV5s-WuOtBMTt_x2OLIdP/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true,,,,,,4,,,
+University of South Florida,Doctoral-R1,No,HUMAN ASPECTS OF CYBERSECURITY,https://drive.google.com/file/d/1GdSH0vxtcggzLqNLtc5aoKPZ14SNsyPW/view?usp=drive_link,,,,,,0,,,
+Sacred Heart University,Doctoral-D/PU,No,COMPUTER ETHICS:SOCIETY & TECH,"https://docs.google.com/document/d/1kG6C3R39oQW6CYJtahdxvmYs2nlvKBYU/edit?usp=drive_link&ouid=109178796343356996296&rtpof=true&sd=true ,  https://drive.google.com/drive/folders/13JlW69SRAy6yB0U4wCE72pTVOukldR4g?usp=drive_link",,,,,,1,,,
+Framingham State University,MastersCollegesAndUniversities-M1,No,Introduction to Information Technology,https://drive.google.com/file/d/1mUljq66aB7tbrW2O-2gVJEQtkdL7wavV/view?usp=drive_link,,,,,,-,,,
+Stevens Institute of Technology,Doctoral-R2,No,Societal Impact of Information Technologies,https://drive.google.com/file/d/1FWxubkrTv9ycOX-9X69jeF7dLD53qnqQ/view?usp=drive_link,,,,,,-,,,
+Knox College,Baccalaureate-ArtsAndSciences,No,Cryptography and Computer Security,https://drive.google.com/file/d/1VbhcAgz18Kl-xud_MgJ9FZ9f9n7Od8ht/view?usp=drive_link,,,,,,0,,,
+The University of Texas at San Antonio,Doctoral-R1,No,Cyber Security Foundations and Practice,https://drive.google.com/file/d/1gm14rsF8kUHxvzq_Xk34bBho5jnjV_Dp/view?usp=drive_link,,,,,,0,,,
+Bellevue College,Baccalaureate/Associates-MixedBaccalaureate/Associates,No,Internet of Things,https://drive.google.com/file/d/1-Xq8ybkXBm-bYh-1Yyr88v-hZXqc3E6G/view?usp=drive_link,,,,,,0,,,
