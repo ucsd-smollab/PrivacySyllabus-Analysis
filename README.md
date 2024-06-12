@@ -4,7 +4,7 @@ This repository contains scripts to analyse the data collected from courses and 
 
 ## Repository Structure
 
-- Overall Analysis : This folder contains the following:
+- For the overall analysis : This repository contains the following files:
 	- `Analysis.ipynb`: A script to perform basic analysis on the data.
 	- `all-university-dataset.csv`: This csv file contains all the universities in our dataset
 	- `UniversitiesWithNoPrivacyCourses.csv`: This csv file contains all the universities which were identified having no mention privacy in their courses in our dataset
